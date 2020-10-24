@@ -1,5 +1,5 @@
 # SpaceShooter
-Created a space shooting game based on one of the projects from "Complete C# Unity Game Developer 2D" class.
+Created a space shooting game based on one of the projects from "Complete C# Unity Game Developer 2D" class. Completed all projects and all 55 hours of lecture matterial.
 Link to course: https://www.udemy.com/course/unitycourse/.
 
 Learned:
